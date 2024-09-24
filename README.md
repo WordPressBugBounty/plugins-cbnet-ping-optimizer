@@ -1,0 +1,1 @@
+# plugins-cbnet-ping-optimizer
